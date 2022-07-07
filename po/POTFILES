@@ -1,0 +1,7 @@
+data/app.duch.webnavigator.desktop.in
+data/app.duch.webnavigator.appdata.xml.in
+data/app.duch.webnavigator.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
